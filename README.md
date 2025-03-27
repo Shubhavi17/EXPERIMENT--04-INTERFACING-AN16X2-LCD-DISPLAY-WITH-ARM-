@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 # include "lcd.h"
 Lcd_PortType ports[]={GPIOA,GPIOA,GPIOA,GPIOA};
@@ -256,6 +257,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+```
 ## Output screen shots of proteus  :
  ![Screenshot 2025-03-27 142556](https://github.com/user-attachments/assets/094ddb40-56e8-4c83-8a2d-a0eeedea60fa)
 
